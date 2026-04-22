@@ -793,7 +793,7 @@ export default function NvcInteractiveLearningPage() {
                 <span className="rounded-full border border-white/60 bg-white/80 px-3 py-1">NVC × 遊戲化</span>
               </div>
               <h1 className="mb-3 bg-gradient-to-r from-violet-700 via-fuchsia-600 to-cyan-500 bg-clip-text text-4xl font-black leading-tight text-transparent md:text-6xl">
-                非暴力溝通練習室
+                非暴力溝通練習室 v2
               </h1>
               <p className="max-w-3xl text-base leading-8 text-slate-600 md:text-lg">
                 這不是單純的定義頁，而是一個讓學生透過判斷、拆解、改寫、排行榜與診斷回饋，實際學會
